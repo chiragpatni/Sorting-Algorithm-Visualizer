@@ -1,4 +1,4 @@
-# sortingalgo_visualizer.github.io
+# Sorting Algorithms Visualizer
 
 In this project, you can look how the different sorting algorithms work.
 
